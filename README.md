@@ -1,5 +1,8 @@
 # django-qpay
 
+[![PyPI](https://img.shields.io/pypi/v/django-qpay)](https://pypi.org/project/django-qpay/)
+[![CI](https://github.com/qpay-sdk/django-qpay/actions/workflows/ci.yml/badge.svg)](https://github.com/qpay-sdk/django-qpay/actions)
+
 QPay V2 payment integration for Django.
 
 ## Install
