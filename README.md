@@ -2,6 +2,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/django-qpay)](https://pypi.org/project/django-qpay/)
 [![CI](https://github.com/qpay-sdk/django-qpay/actions/workflows/ci.yml/badge.svg)](https://github.com/qpay-sdk/django-qpay/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 QPay V2 payment integration for Django.
 
