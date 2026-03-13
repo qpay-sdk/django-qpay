@@ -71,7 +71,7 @@ invoice = client.create_simple_invoice(CreateSimpleInvoiceRequest(
 from django_qpay.signals import payment_received
 
 @receiver(payment_received)
-def on_payment(sender, invoice_id, result, **kwargs):
+def on_payment(sender, payment_id, result, **kwargs):
     ...
 ```
 
